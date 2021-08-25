@@ -10,16 +10,17 @@ body{
 
 #container{
 
-    padding: 70%;
-    margin: 1cm;
+    width: 70%;
+    padding: 1cm;
+    margin: 0 auto;
     text-align: left;
-    border: 1px solid navajowhite;
-    margin:0 auto;
+    border: 2px solid navajowhite;
+
 
 
 }
 
 #container h1{
 
-    font-size: 70px;
+    font-size: 30px;
 }
