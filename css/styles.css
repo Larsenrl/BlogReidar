@@ -29,10 +29,10 @@ body{
 #container{
 
     width: 70%;
-    padding: 1cm;
+    padding: 0cm;
     margin: 0 auto;
     text-align: left;
-    border: 2px solid navajowhite;
+    border: 5px solid navajowhite;
 
 
 
@@ -43,3 +43,12 @@ body{
     font-size: 30px;
 }
 
+#footer{
+    background: darkturquoise;
+    margin: auto;
+    color: white;
+    font-size: 30px;  
+    text-align: center;
+    vertical-align: center;
+    
+}
