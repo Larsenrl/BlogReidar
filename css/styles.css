@@ -53,8 +53,20 @@ body{
     font-size: 30px;
 }
 
+<<<<<<< HEAD
 #post{
 
     background-color: white;
     padding: 1cm;
 }
+=======
+#footer{
+    background: darkturquoise;
+    margin: auto;
+    color: white;
+    font-size: 30px;  
+    text-align: center;
+    vertical-align: center;
+    
+}
+>>>>>>> footer
